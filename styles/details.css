@@ -1,0 +1,19 @@
+/* You need to create the rest of styles for the layout shown */
+
+.choices {
+    display: flex;
+    justify-content: space-around;
+}
+
+.options {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+
+#types {
+    margin: 2rem 2rem 0rem 2rem;
+}
